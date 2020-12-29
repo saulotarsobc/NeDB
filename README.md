@@ -1,6 +1,6 @@
 # RESTful API de Usuários
 
-[![Hcode Treinamentos](https://www.hcode.com.br/res/img/hcode-200x100.png)](https://www.hcode.com.br)
+[![Hcode Treinamentos](https://avatars1.githubusercontent.com/u/17248991?s=200&v=4)](https://www.hcode.com.br)
 
 API desenvolvida em Node.js para o Curso Completo de JavaScript na Udemy.com.
 
